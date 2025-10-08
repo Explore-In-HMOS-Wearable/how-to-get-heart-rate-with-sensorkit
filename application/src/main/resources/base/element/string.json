@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "HiWearMainAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "HiWearMainAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "READ_HEALTH_DATA",
+      "value": "ohos.permission.READ_HEALTH_DATA"
+    },
+    {
+      "name": "internet",
+      "value": "internet"
+    }
+  ]
+}
